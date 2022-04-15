@@ -20,6 +20,20 @@ Walking in nature is also close to my heart.
 
 ## Carreer Summary
 
+**Integration Specialist** @ [Solita Oy](https://www.solita.fi/) _(2019 - Present)_ <br>
+Solita creates impact that lasts by combining tech, data and human insight.
+  - Worked as Integration Developer and Integration Architect roles in several Finnish and Swedish customer projects
+  - 
+  - TODO
+<br><br>
+
+**Programmer, Game Designer, Writer, Co-Patrner** @ Avoin Yhtiö Polar Night Games _(2016 - Present)_ <br>
+A company founded by two friends for publishing indie game projects. Mostly active in 2016-2019. Created and self-published a Finnish mythology inspired Japanese style bullet-hell shoot 'em up "Terra Feminarum" in Steam 2018. Terra Feminarum is written in Java and it's developed on top of a homebrew game engine that was developed in-house. The game has been downloaded over 10k times and it has found a small but enthusiastic playerbase. 
+
+
+<br><br>
+
+
 ## Technical Knowledge
 
 ## Languages
