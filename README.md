@@ -50,7 +50,7 @@ year in UAE (Dubai/Abu Dhabi) building automated shipyard cranes.
 <br><br>
 
 ## Technical Knowledge
-Dell Boomi, MuleSoft ESB, Microsoft Azure, Java, API Design, API Management, SOAP, REST, Databases & SQL, ERP, Master Data Management, Artemis MQ, RabbitMQ, Jenkins, Ansible, Elasticsearch, Logstash, Kibana, Nodinite, XML, XSLT, CSV, JSON, FTP, SFTP, HTTP, OData, Web services, AS2, TODO 
+Dell Boomi, MuleSoft ESB, Microsoft Azure, Java, API Design, API Management, SOAP, REST, Databases & SQL, ERP, Master Data Management, Artemis MQ, RabbitMQ, Jenkins, Ansible, Elasticsearch, Logstash, Kibana, Nodinite, XML, XSLT, CSV, JSON, FTP, SFTP, HTTP, OData, Web services, AS2, Linux & Windows servers
 
 <!--- TODO: Add missing technologies --->
 
