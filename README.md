@@ -1,7 +1,7 @@
 ## Aku Karhunen
 
 [Email](mailto:karhunenaku@gmail..com) / [LinkedIn](https://www.linkedin.com/in/aku-karhunen/) / [Game Development](https://store.steampowered.com/app/796380/Terra_Feminarum/)
-<br>
+<br><br>
 
 ## Profile
 I am a technical oriented Integration Specialist from Helsinki. Besides my experience in
@@ -34,7 +34,6 @@ Walking in nature is also close to my heart.
   - Team player 
   - Adaptable
   - Endless patience
-
 <br><br>
 
 ## Carreer Summary
