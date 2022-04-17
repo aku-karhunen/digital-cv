@@ -1,6 +1,6 @@
 ## Aku Karhunen
 
-[Email](mailto:karhunenaku@gmail..com) / [LinkedIn](https://www.linkedin.com/in/aku-karhunen/) / [Game Development](https://store.steampowered.com/app/796380/Terra_Feminarum/)
+[Email](mailto:karhunenaku@gmail.com) / [LinkedIn](https://www.linkedin.com/in/aku-karhunen/)
 <br><br>
 
 ## Profile
@@ -43,7 +43,7 @@ As my day job I'm creating impact that lasts by combining tech, data and human i
 <br>
 
 **Programmer, Game Designer, Writer, Co-Patrner** @ Avoin Yhtiö Polar Night Games _(2016 - Present)_ <br>
-A company founded by two friends for publishing indie game projects. Mostly active in 2016-2019. Created and self-published a Finnish mythology inspired Japanese style bullet-hell shoot 'em up "Terra Feminarum" in Steam 2018. Terra Feminarum is written in Java and it's developed on top of a homebrew game engine that was developed in-house. The game has been downloaded over 10k times and it has been found by a small but enthusiastic playerbase. 
+A company founded by two friends for publishing indie game projects. Mostly active in 2016-2019. Created and self-published a Finnish mythology inspired Japanese style bullet-hell shoot 'em up [Terra Feminarum](https://store.steampowered.com/app/796380/Terra_Feminarum/) in Steam 2018. Terra Feminarum is written in Java and it's developed on top of a homebrew game engine that was developed in-house. The game has been downloaded over 10k times and it has been found by a small but enthusiastic playerbase. 
 <br>
 
 **Automation Assembler** @ Various Companies _(2009 - 2015)_ <br>
