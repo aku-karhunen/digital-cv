@@ -13,10 +13,26 @@ In my leisure time, I usually spend time with my kids or consume fictional enter
 Walking in nature is also close to my heart.
 
 ## Core Skills
+
+### Integrations
   - Integration development
   - Integration architecture
   - Integration patterns & Best practices
-  - 
+  - Infrastructure
+  - It operations
+  - Continuous Services
+  - Agile working methods
+  - Most familiar with SaaS-model integration platforms like Boomi and Mulesoft ESB
+
+### General Qualities
+  - Quick learning ability
+  - Good time and task management
+  - Technology agnostic
+  - Good communication skills
+  - Team player 
+  - Adaptable
+  - Endless patience
+  
 
 ## Carreer Summary
 
@@ -32,7 +48,7 @@ A company founded by two friends for publishing indie game projects. Mostly acti
 <br><br>
 
 **Automation Assembler** @ Various Companies _(2009 - 2015)_ <br>
-I worked as an automation assembler in various companies in Finland. I mostly worked on
+I worked as an automation assembler in various companies in Finland. Most of the time I was working on
 electrical, instrumentation, and automation installations. I also worked approximately one
 year in UAE (Dubai/Abu Dhabi) building automated shipyard cranes.
 <br><br>
