@@ -16,27 +16,29 @@ Walking in nature is also close to my heart.
   - Integration development
   - Integration architecture
   - Integration patterns & Best practices
-  - Infrastructure
-  - It operations
+  - IT Infrastructure
+  - IT operations
   - Continuous Services
   - Agile working methods
   - Most familiar with SaaS-model integration platforms like Boomi and Mulesoft ESB
-  - I've done most of the Boomi integration sertificates, for full list please check out my [Linkedin Profile](https://www.linkedin.com/in/aku-karhunen/)
+  - I've done most of the Boomi integration certificates, for full list please see my [Linkedin Profile](https://www.linkedin.com/in/aku-karhunen/)
 
 ### General Qualities
   - Quick learning ability
   - Good time and task management
   - Technology agnostic
-  - Good communication skills
+  - Excellent communication skills
   - Team player 
   - Adaptable
   - Endless patience
 <br><br>
 
-## Carreer Summary
+## Career Summary
 
 **Integration Specialist** @ [Solita Oy](https://www.solita.fi/) _(2019 - Present)_ <br>
-In my day job, I'm creating impact that lasts by combining tech, data and human insight at Solita. As an Integration Specialist, I'm fortuned to work with various customers and projects as Integration Developer and Architect roles. Most of my current and past customers are located in Finland and Sweden.
+I'm creating impact that lasts by combining tech, data and human insight. As an Integration Specialist, I'm fortuned to work with various customers and projects as Integration Developer and Architect roles. Most of my current and past customers are located in Finland and Sweden.
+
+
 <br>
 
 **Programmer, Game Designer, Writer, Co-Patrner** @ Avoin Yhtiö Polar Night Games _(2016 - Present)_ <br>
