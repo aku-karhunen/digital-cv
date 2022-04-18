@@ -36,9 +36,9 @@ Walking in nature is also close to my heart.
 ## Career Summary
 
 **Integration Specialist** @ [Solita Oy](https://www.solita.fi/) _(2019 - Present)_ <br>
-I'm creating impact that lasts by combining tech, data and human insight. As an Integration Specialist, I'm fortuned to work with various customers and projects as Integration Developer and Architect roles. Most of my current and past customers are located in Finland and Sweden.
+I'm creating impact that lasts by combining tech, data and human insight. So far at Solita, I’ve worked on several multi-site projects with major Nordic customers. My role in the projects has either been Integration Developer or Integration Architect. The project teams have included people from different countries, mainly Finland and Sweden. Most of the integrations I’ve worked on have related to the management of business-critical data, such as work hour logging, purchase orders and invoices, and HR data. In addition, I’ve worked on the specification and development of procedures.
 
-
+Working on different customer projects has improved my understanding of different customers' background systems and business processes. When working with many independent parties and entities, managing the big picture is especially important. Communication and working at the customer interface play a significant role in the daily life of an Integration Specialist.
 <br>
 
 **Programmer, Game Designer, Writer, Co-Patrner** @ Avoin Yhtiö Polar Night Games _(2016 - Present)_ <br>
