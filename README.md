@@ -6,8 +6,8 @@
 ## Profile
 I am a technical oriented Integration Specialist from Helsinki. I like working on diverse projects, with different technologies, systems and people. Also I like to constantly develop myself and learn new things, both hard and soft skills. Besides my experience in integrations, I have worked as a game developer and an Automation Mechanic in the past.
 
-In my leisure time, I usually spend time with my kids or consume fictional entertainment.
-Walking in nature is also close to my heart.
+Outside working hours, I usually spend time with my kids or consume fictional entertainment.
+Walking in nature is also close to my heart. If I'm lucky and have some extra time to spend, I develop my hobby game projects.
 <br><br>
 
 ## Core Skills
