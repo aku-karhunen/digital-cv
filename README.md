@@ -41,8 +41,8 @@ I'm creating impact that lasts by combining tech, data and human insight. So far
 Working on different customer projects has improved my understanding of different customers' background systems and business processes. When working with many independent parties and entities, managing the big picture is especially important. Communication and working at the customer interface play a significant role in the daily life of an Integration Specialist.
 <br>
 
-**Programmer, Game Designer, Writer, Co-Patrner** @ Avoin Yhtiö Polar Night Games _(2016 - Present)_ <br>
-A company founded by two friends for publishing indie game projects. Mostly active in 2016-2019. Created and self-published Finnish mythology-inspired Japanese style bullet-hell shoot 'em up [Terra Feminarum](https://store.steampowered.com/app/796380/Terra_Feminarum/) in Steam 2018. We wrote Terra Feminarum in Java and it's developed on top of a homebrew game engine. The game has over 10k downloads and it's having a small but enthusiastic player base.
+**Programmer, Game Designer, Writer, Co-Partner** @ Avoin Yhtiö Polar Night Games _(2016 - Present)_ <br>
+A company founded by two friends for publishing indie game projects. Mostly active in 2016-2019. Created and self-published Finnish mythology-inspired Japanese style bullet-hell shoot 'em up [Terra Feminarum](https://store.steampowered.com/app/796380/Terra_Feminarum/) in Steam 2018. We wrote Terra Feminarum in Java and it was developed on top of a homebrew game engine. The game has over 10k downloads and it has a small but enthusiastic player base.
 <br>
 
 **Automation Assembler** @ Various Companies _(2009 - 2015)_ <br>
